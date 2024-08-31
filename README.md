@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at miwlity@gmail.com
 
 ## Image
-![Study] (https://idreamcareer.com/wp-content/uploads/2020/04/Study-Guide.jpg)
+![Study](https://idreamcareer.com/wp-content/uploads/2020/04/Study-Guide.jpg)
